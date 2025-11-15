@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "O61qCcUQj+U=",
+  "success": true,
+  "projectFilePath": "D:\\Favorite\\csharp\\MyMcpServer\\MyMcpServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aarum\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.7.1\\microsoft.extensions.ai.abstractions.9.7.1.nupkg.sha512",
+    "C:\\Users\\aarum\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.5\\microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\aarum\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\aarum\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\9.0.5\\microsoft.extensions.diagnostics.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\aarum\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.5\\microsoft.extensions.fileproviders.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\aarum\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\9.0.5\\microsoft.extensions.hosting.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\aarum\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.5\\microsoft.extensions.logging.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\aarum\\.nuget\\packages\\microsoft.extensions.options\\9.0.5\\microsoft.extensions.options.9.0.5.nupkg.sha512",
+    "C:\\Users\\aarum\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.5\\microsoft.extensions.primitives.9.0.5.nupkg.sha512",
+    "C:\\Users\\aarum\\.nuget\\packages\\modelcontextprotocol\\0.3.0-preview.4\\modelcontextprotocol.0.3.0-preview.4.nupkg.sha512",
+    "C:\\Users\\aarum\\.nuget\\packages\\modelcontextprotocol.aspnetcore\\0.3.0-preview.4\\modelcontextprotocol.aspnetcore.0.3.0-preview.4.nupkg.sha512",
+    "C:\\Users\\aarum\\.nuget\\packages\\modelcontextprotocol.core\\0.3.0-preview.4\\modelcontextprotocol.core.0.3.0-preview.4.nupkg.sha512",
+    "C:\\Users\\aarum\\.nuget\\packages\\system.net.serversentevents\\10.0.0-preview.4.25258.110\\system.net.serversentevents.10.0.0-preview.4.25258.110.nupkg.sha512"
+  ],
+  "logs": []
+}
